@@ -8,8 +8,8 @@ Example showing for tkinter and ttk:
 
 Authors: David Mutchler, Vibha Alangar, Matt Boutell, Dave Fisher,
          Mark Hays, Amanda Stouder, Aaron Wilkin, their colleagues,
-         and PUT_YOUR_NAME_HERE.
-"""  # TODO: 1. PUT YOUR NAME IN THE ABOVE LINE.
+         and Alex Wolfe.
+"""  # done: 1. PUT YOUR NAME IN THE ABOVE LINE.
 
 import tkinter
 from tkinter import ttk
@@ -33,7 +33,7 @@ def main():
 def do_stuff():
     """
     Print onto the Console a random 10-letter string.
-    
+
     In this example, it is used as the function that is "CALLED BACK"
     when an event (namely, the pressing of a certain Button) occurs.
     """
